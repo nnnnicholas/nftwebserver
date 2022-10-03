@@ -6,3 +6,5 @@ Serve an onchain HTML page via `ERC721.tokenUri()` that fetches Ethers from a CD
 the html is in `src/index.html`
 
 its contents are copy-pasted into `Contract.sol`, which serves the page via `tokenUri(uint256)`
+
+![](src/tokenuriresolver.png)
